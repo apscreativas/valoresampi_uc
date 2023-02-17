@@ -55,6 +55,40 @@ html, body{
     text-align: left;
   }
 }
+.buttonvideo{
+  height: 17%;
+  }
+
+@media screen and (max-width: 700px) {
+
+ .buttonvideo{
+  height: 45%;
+  }
+  .tamTex{
+    font-size: 95%;
+  }
+.tamTextitle{
+  font-size: 200%;
+}
+
+.imgrespon{
+  max-width: 20%;
+}
+.imgrespon02{
+  width: 50%;
+}
+}
+
+@media screen and (min-width: 700px) {
+
+
+.imgrespon{
+  max-width: 5%;
+}
+.imgrespon02{
+  width: 15%;
+}
+}
 
 
 
